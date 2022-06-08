@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.530e122e.css",
+    "main.js": "/react-gh-pages/static/js/main.0f1f553c.js",
+    "static/js/787.498408f2.chunk.js": "/react-gh-pages/static/js/787.498408f2.chunk.js",
+    "static/media/logo hlsb.png": "/react-gh-pages/static/media/logo hlsb.994682ea3b0a8b0d6f55.png",
+    "static/media/circle.png": "/react-gh-pages/static/media/circle.efddfee2ab1e4b92eb3c.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.530e122e.css.map": "/react-gh-pages/static/css/main.530e122e.css.map",
+    "main.0f1f553c.js.map": "/react-gh-pages/static/js/main.0f1f553c.js.map",
+    "787.498408f2.chunk.js.map": "/react-gh-pages/static/js/787.498408f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.530e122e.css",
+    "static/js/main.0f1f553c.js"
+  ]
+}
